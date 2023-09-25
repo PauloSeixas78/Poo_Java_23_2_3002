@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="tela_agendamento_refeicoes_descricao">Descrição</string>
+    <string name="tela_agendamento_refeicoes_horario">Horário</string>
+    <string name="tela_agendamento_refeicoes_frequencia">Frequência</string>
+    <string-array name="tela_agendamento_refeicoes_frequencia_lista">
+        <item>Diariamente</item>
+        <item>Hoje</item>
+        <item>Fins de semana</item>
+        <item>Segunda à sexta</item>
+    </string-array>
+    <string name="tela_agendamento_refeicoes_dispositivo">Dispositivo</string>
+    <string-array name="tela_agendamento_refeicoes_dispositivo_lista">
+        <item>Nenhum</item>
+    </string-array>
+    <string name="tela_agendamento_refeicoes_salvar">Salvar</string>
 </resources>
