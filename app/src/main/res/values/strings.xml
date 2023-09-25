@@ -1,5 +1,7 @@
 <resources>
+
     <string name="app_name">My Application</string>
+
     <string name="tela_agendamento_refeicoes_descricao">Descrição</string>
     <string name="tela_agendamento_refeicoes_horario">Horário</string>
     <string name="tela_agendamento_refeicoes_frequencia">Frequência</string>
@@ -14,4 +16,11 @@
         <item>Nenhum</item>
     </string-array>
     <string name="tela_agendamento_refeicoes_salvar">Salvar</string>
+
+    <string name="tela_login_usuario">Usuário</string>
+    <string name="tela_login_senha">Senha</string>
+    <string name="tela_login_entrar">Entrar</string>
+    <string name="tela_login_esqueci_senha">Esqueci a senha</string>
+
+
 </resources>
